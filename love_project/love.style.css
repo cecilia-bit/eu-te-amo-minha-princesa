@@ -1,0 +1,16 @@
+:root {
+  --matrix-bg: #000000;
+  --matrix-txt: #ff0066;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--matrix-bg);
+  overflow: hidden;
+  font-family: 'Dancing Script', cursive;
+}
+
+canvas {
+  display: block;
+}
